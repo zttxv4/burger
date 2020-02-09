@@ -1,25 +1,17 @@
 {
-  "name": "burger",
+  "name": "node_what_todo",
   "version": "1.0.0",
-  "description": "Homework 14",
+  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zttxv4/burger.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zttxv4/burger/issues"
-  },
-  "homepage": "https://github.com/zttxv4/burger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
-    "mysql": "^2.17.1"
-  }
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {}
 }

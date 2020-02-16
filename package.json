@@ -1,4 +1,4 @@
-  {
+{
   "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
